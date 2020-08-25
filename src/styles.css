@@ -1,0 +1,10 @@
+@import url("https://cdn.maximousblk.now.sh/css/JetBrainsMono.css");
+
+:root {
+  --red: #a76c6e;
+}
+
+html,
+body {
+  font-family: "JetBrainsMono";
+}
